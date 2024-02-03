@@ -1,0 +1,2 @@
+# recursions
+Öz yinelemeli fonksiyonlar
